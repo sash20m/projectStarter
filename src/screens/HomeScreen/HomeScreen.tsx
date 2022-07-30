@@ -1,7 +1,7 @@
 import React from 'react';
-import {View, Text, Button} from 'react-native';
-import Styles from './HomeStyles';
+import {View, Text} from 'react-native';
 import Config from 'react-native-config';
+import Styles from './HomeStyles';
 
 const HomeScreen = () => {
   return (
